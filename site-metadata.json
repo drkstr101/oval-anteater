@@ -24,7 +24,8 @@
             {
                 "label": "Lab",
                 "url": "https://auto-devops.com",
-                "style": "primary"
+                "style": "primary",
+                "new_window": true
             }
         ]
     },
