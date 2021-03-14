@@ -18,7 +18,8 @@
             },
             {
                 "url": "/style-guide",
-                "style": "link"
+                "style": "link",
+                "label": "news"
             },
             {
                 "label": "Lab",
