@@ -75,5 +75,6 @@
         "subscribe_action": "/subscribe-success"
     },
     "title": "Stackbit Ampersand Theme",
-    "domain": "https://oval-anteater-dd56e.netlify.app"
+    "domain": "https://oval-anteater-dd56e.netlify.app",
+    "favicon": "images/icon.png"
 }
