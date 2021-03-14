@@ -2,7 +2,7 @@
     "layout_style": "grid",
     "palette": "blue",
     "header": {
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/logo-w-dark.png",
         "logo_img_alt": "Ampersand Logo",
         "has_nav": true,
         "nav_links": [
